@@ -3,7 +3,7 @@
     { "id": 1, "produto": "Placa Mae", "quantidade": "54" },
     { "id": 2, "produto": "Monitor", "quantidade": "25" },
     { "id": 3, "produto": "Fonte", "quantidade": "36" },
-    { "id": 4, "produto": "Memoria Ram", "quantiade": "23" }
+    { "id": 4, "produto": "Memoria Ram", "quantidade": "23" }
    
   ]
 }
